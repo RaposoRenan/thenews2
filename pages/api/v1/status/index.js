@@ -19,8 +19,6 @@ async function status(request, response) {
   });
   const databaseOpenedConnectionsValue = databaseConnectionsResult.rows.length;
 
-  console.log(databaseOpenedConnectionsValue);
-
   response.status(200).json({
     update_at: updateAt,
     dependencies: {
