@@ -29,7 +29,7 @@ export default function Home() {
           </p>
           {/* Substitua o número abaixo pelo WhatsApp real da empresa */}
           <a
-            href="https://wa.me/5517900000000"
+            href="https://wa.me/5517991984401"
             className="cta-button"
             target="_blank"
             rel="noopener noreferrer"
@@ -72,7 +72,7 @@ export default function Home() {
             <strong>UriAço Serralheria</strong>
           </p>
           <p>Atendendo São José do Rio Preto - SP</p>
-          <p>WhatsApp: (17) 90000-0000</p>
+          <p>WhatsApp: (17) 99198-4401</p>
         </div>
         <div className="copy">
           <p>
